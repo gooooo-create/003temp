@@ -2,6 +2,6 @@
 
 int main(){
 
-    std::cout << "nihao 01xingqiu" << std::endl;
+    std::cout << "nihao 02xingqiu" << std::endl;
     return 0;
 }
