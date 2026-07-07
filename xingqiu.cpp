@@ -2,6 +2,6 @@
 
 int main(){
 
-    std::cout << "nihaohello 01xingqiu" << std::endl;
+std::cout << "你俩干嘛呢" << std::endl;
     return 0;
 }
